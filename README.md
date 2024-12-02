@@ -11,7 +11,7 @@
 - 사용하실 파일버전을 기입하여 아래의 방식으로 요청하시면 됩니다
 
 ```
-GET https://hsg5533.github.io/json/{파일버전}.json
+GET https://hsg5533.github.io/hang-jeong-dong/json/{파일버전}.json
 ```
 
 ## 레포지토리 설명
