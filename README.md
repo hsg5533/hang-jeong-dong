@@ -1,10 +1,6 @@
-<<<<<<< Updated upstream
 # 행정구역 레포지토리
 
 ## live demo : https://hsg5533.github.io/hang-jeong-dong/
-=======
-﻿# 행정구역 레포지토리
->>>>>>> Stashed changes
 
 ## 원본 레포지토리 : https://github.com/vuski/admdongkor
 
