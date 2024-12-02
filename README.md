@@ -1,6 +1,10 @@
+<<<<<<< Updated upstream
 # 행정구역 레포지토리
 
 ## live demo : https://hsg5533.github.io/hang-jeong-dong/
+=======
+﻿# 행정구역 레포지토리
+>>>>>>> Stashed changes
 
 ## 원본 레포지토리 : https://github.com/vuski/admdongkor
 
@@ -17,6 +21,14 @@ GET https://hsg5533.github.io/hang-jeong-dong/json/{파일버전}.json
 ## 레포지토리 설명
 
 - 행정구역의 경계를 행정동 기준으로 분할한 json 형식의 데이터입니다
+
+## 사용 설명
+
+- 사용하실 파일버전을 기입하여 아래의 방식으로 요청하시면 됩니다
+
+```
+GET https://hsg5533.github.io/json/{파일버전}.json
+```
 
 ## 파일 버젼
 
